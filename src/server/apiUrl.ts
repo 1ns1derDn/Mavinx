@@ -1,0 +1,1 @@
+export const URL = 'https://prozorro.mavinx.com/api/test/';
